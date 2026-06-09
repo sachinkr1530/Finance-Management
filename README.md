@@ -237,4 +237,5 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ![Login](./screenshot/login.png)
 
 ## Dashboard
-![Dashboard](./screenshot/Dashboard.jpeg)
+![Dashboad](./screenshot/Dashboad.jpeg)
+
