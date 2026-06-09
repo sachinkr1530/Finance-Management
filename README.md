@@ -232,10 +232,9 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## Home Page
 
-![Home Page](./screenshots/home.png)
 
 ## Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshot/login.png)
 
 ## Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshot/Dashboard.png)
