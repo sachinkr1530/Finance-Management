@@ -1,5 +1,3 @@
-# 💰 FinanceAI - AI-Powered Personal Finance Management
-
-https://finance-management-eta-sable.vercel.app/
+# 💰 FinanceAI - AI-Powered Personal Finance Management   URL=>  https://finance-management-eta-sable.vercel.app/
 
 
